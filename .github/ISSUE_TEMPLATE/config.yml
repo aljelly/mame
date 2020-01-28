@@ -1,0 +1,17 @@
+blank_issues_enabled: true
+contact_links:
+  - name: MAME Testers
+    url: https://mametesters.org/
+    about: You can also post machine bug reports here.
+  - name: MAME Forums
+    url: https://forum.mamedev.org/
+    about: You can also ask questions here.
+  - name: IRC
+    url: https://www.mamedev.org/irc.html
+    about: You can find MAME's official IRC channels here.
+  - name: Support Forums
+    url: https://forums.bannister.org/ubbthreads.php?ubb=postlist&Board=1
+    about: You can also ask questions here.
+  - name: Legal Questions
+    url: https://www.mamedev.org/contact2.php?=legal
+    about: Submit legal questions here.
