@@ -6,6 +6,7 @@ labels: 'feature request'
 assignees: ''
 
 ---
+<!-- tick by adding an 'x' in the box (without the quotes) -->
 - [ ] I have checked this is not a duplicate issue
 
 ## System information (please fill out, if applicable)
